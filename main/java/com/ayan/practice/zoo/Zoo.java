@@ -12,6 +12,7 @@ public class Zoo {
 		Lion.eating();
 		impala.checkTypeMammel();
 		impala.eating();
+		Lion.checkTypeMammel();
 	}
 
 }
